@@ -13,7 +13,7 @@ INSERT INTO publisher(name, country)  VALUES("Vintage", "UK");
 
 INSERT INTO books(title,publisher)  VALUES ("The C Programming Language","1");
 INSERT INTO books(title,publisher)  VALUES ("The Go Programming Language","1");
-INSERT INTO books(title,publisher)  VALUES ("The Unix Programming Language","1");
+INSERT INTO books(title,publisher)  VALUES ("The Unix Programming Environment","1");
 INSERT INTO books(title,publisher)  VALUES ("Cryptonomicon","2");
 INSERT INTO books(title,publisher)  VALUES ("Deep Work","3");
 INSERT INTO books(title,publisher)  VALUES  ("Atomic Habits" , "4");
@@ -29,7 +29,7 @@ INSERT INTO subjects(name) VALUES("Technology");
 INSERT INTO subjects(name) VALUES("Go");
 INSERT INTO subjects(name) VALUES("Science Ficton");
 INSERT INTO subjects(name) VALUES("Productivity");
-INSERT INTO subjects(name) VALUES("Psycology");
+INSERT INTO subjects(name) VALUES("Psychology");
 INSERT INTO subjects(name) VALUES("Politics");
 INSERT INTO subjects(name) VALUES("History");
 
