@@ -27,7 +27,7 @@ INSERT INTO subjects(name) VALUES("C");
 INSERT INTO subjects(name) VALUES("UNIX");
 INSERT INTO subjects(name) VALUES("Technology");
 INSERT INTO subjects(name) VALUES("Go");
-INSERT INTO subjects(name) VALUES("Science Ficton");
+INSERT INTO subjects(name) VALUES("Science Fiction");
 INSERT INTO subjects(name) VALUES("Productivity");
 INSERT INTO subjects(name) VALUES("Psychology");
 INSERT INTO subjects(name) VALUES("Politics");
