@@ -13,7 +13,7 @@ INSERT INTO publisher(name, country)  VALUES("Vintage", "UK");
 
 INSERT INTO books(title,publisher)  VALUES ("The C Programming Language","1");
 INSERT INTO books(title,publisher)  VALUES ("The Go Programming Language","1");
-INSERT INTO books(title,publisher)  VALUES ("The Unix Programming Environment","1");
+INSERT INTO books(title,publisher)  VALUES ("The UNIX Programming Environment","1");
 INSERT INTO books(title,publisher)  VALUES ("Cryptonomicon","2");
 INSERT INTO books(title,publisher)  VALUES ("Deep Work","3");
 INSERT INTO books(title,publisher)  VALUES  ("Atomic Habits" , "4");
